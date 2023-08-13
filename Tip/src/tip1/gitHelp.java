@@ -18,7 +18,7 @@ public class gitHelp {
 	 * git commit -m "히스토리명"
 	 * git remote add origin https://github.com/~~~~~
 	 * git remote -v   <<< 연결 확인
-	 * git push origin master   <<푸쉬
+	 * git push origin master   <<
 	 */
 		
 		
