@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Tip.etc {
+module Tip {
 }
